@@ -1,0 +1,14 @@
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de sauvegarde
+*~
+
+# Fichiers de logs
+*.log
+
+# Dossiers temporaires
+temp/
+
+
